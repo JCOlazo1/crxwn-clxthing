@@ -17,9 +17,11 @@
     display: flex;
     align-items: center;
     justify-content: flex-end;
+    font-family: 'Open Sans Condensed';
 
     .option {
       padding: 10px 15px;
+      cursor: pointer;
     }
   }
 }

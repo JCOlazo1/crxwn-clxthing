@@ -11,3 +11,7 @@ a {
   color: #ccc;
   font-family: 'Open Sans Condensed';
 }
+
+* {
+  box-sizing: border-box;
+}
